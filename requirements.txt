@@ -1,4 +1,4 @@
-pytorch==1.12
+torch==1.12
 torchvision==0.13.1
 accelerate==0.16.0
 aiohttp==3.8.4
