@@ -1,5 +1,4 @@
---extra-index-url https://download.pytorch.org/whl/cu113
-pytorch==1.12.1
+pytorch==1.12
 torchvision==0.13.1
 accelerate==0.16.0
 aiohttp==3.8.4
