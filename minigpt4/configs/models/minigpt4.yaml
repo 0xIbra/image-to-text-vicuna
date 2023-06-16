@@ -13,7 +13,7 @@ model:
   num_query_token: 32
 
   # Vicuna
-  llama_model: "lmsys/vicuna-7b-delta-v0"
+  llama_model: "/kaggle/working/vicuna_weights/"
 
   # generation configs
   prompt: ""
