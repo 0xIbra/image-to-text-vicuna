@@ -32,7 +32,7 @@ class MiniGPT4(Blip2Base):
         freeze_vit=True,
         freeze_qformer=True,
         num_query_token=32,
-        llama_model="",
+        llama_model="lmsys/vicuna-7b-delta-v0",
         prompt_path="",
         prompt_template="",
         max_txt_len=32,
